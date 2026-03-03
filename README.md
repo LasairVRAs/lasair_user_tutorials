@@ -5,8 +5,11 @@
 <h1 align="center">  Lasair LSST Tutorials </h1>
 
 
-This repository is dedicated to a suite of tutorials to help you get started with using Lasair to accept the LSST Alert data. 
-For Further information we have [ReadTheDocs](https://lasair-lsst.readthedocs.io/en/main/) pages, and their relevant subsections will be sign posted where relevant in these tutorials 
+This repository is based on the [Lasair examples](https://github.com/lsst-uk/lasair-examples) but reframed and expanded to provide a more detailed understanding of what the code in the example does. 
+
+Everything I struggled with as a dirst time user, I put in these tutorials in the hopes it will help others. 
+
+
 
 
 ## How to use these examples?

@@ -2,7 +2,7 @@
 <img src="tutorials/img/lvra.png" alt="lvra" width="50"/>
 </p>
 
-<h1 align="center">  Lasair LSST Tutorials </h1>
+<h1 align="center">  Lasair User Tutorials </h1>
 
 
 This repository is based on the [Lasair examples](https://github.com/lsst-uk/lasair-examples) but reframed and expanded to provide a more detailed understanding of what the code in the example does. 

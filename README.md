@@ -1,5 +1,5 @@
 <p align="center">
-<img src="tutorials/img/lvra.png" alt="lvra" width="50"/>
+<img src="img/lvra.png" alt="lvra" width="50"/>
 </p>
 
 <h1 align="center">  Lasair User Tutorials </h1>
@@ -15,7 +15,7 @@ Everything I struggled with as a dirst time user, I put in these tutorials in th
 ## How to use these examples?
 
 There are three kinds of resources:
-* **Tutorials** which are detailed jupyter notebooks detailing our **API recipes**, our **kafka streams** and **how to handle the data** (e.g. make lightcurves, plot cut-outs)
+* **Top level tutorials** which are detailed jupyter notebooks detailing our **API recipes**, our **kafka streams** and **how to handle the data** (e.g. make lightcurves, plot cut-outs)
 
 * **Understans the features**: These notebooks are step-by-step explainers on how some key Lasair features (e.g. Extinction Corrected magnitudes, Black Body Temperatures from nightly pairs) are calculated. You can run these noteooks and play with them, but it is typically not code you will then copy into you utilities. I have not gone over all of the Lasair features; I started with the ones I was keen to understand better and had time to dive into. You are welcome to add to this or make requests. I will slowly build this as my use of Lasair expands
 
